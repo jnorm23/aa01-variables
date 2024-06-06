@@ -5,15 +5,14 @@ test your work by running your code and the test specs!
 
 // 1. Declare a variable called `firstName` and assign it your first name
 //    as a string:
-
 // Your code here 
-
+let firstName = "Andrea";
 
 // 2. Declare a variable called `lastName` and assign it your last name
 //    as a string:
 
 // Your code here 
-
+let lastName = "Fabro";
 
 // 3. Declare a variable called `age`:
 
