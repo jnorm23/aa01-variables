@@ -17,13 +17,14 @@ let lastName = "Fabro";
 // 3. Declare a variable called `age`:
 
 // Your code here 
-
+let age
 
 // 4. Print out the `firstName`, `lastName`, and `age` variables. What
 //    do you expect them to be when they get printed?
 
 // Your code here 
-
+console.log(firstName, lastName, age)
+//          Andrea, Fabro, Undefined
 
 // 5. Assign the `age` variable to a number:
 
